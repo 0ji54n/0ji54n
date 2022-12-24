@@ -29,8 +29,8 @@ jobs:
           plugin_music: yes
           plugin_music_limit: 4
           plugin_music_mode: playlist
-          plugin_music_playlist: https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7
+          plugin_music_playlist: https://open.spotify.com/playlist/5Ortg2ejaaKE4QOWQ7mOqv
           plugin_music_provider: spotify
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_music_user: .user.login
+          plugin_music_user: Platinum
